@@ -10,6 +10,6 @@
 
 set_passwd----设置安全密码
 
-set_proxy----设置代理并启用
+set_proxy----设置代理并启用(非必要)
 
 ![1.png](/1.png)
