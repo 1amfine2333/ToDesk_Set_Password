@@ -8,6 +8,8 @@
 
 ##  步骤
 
+提示：使用bat之前记得修改ToDesk路径，默认路径为：C:\Program Files (x86)\ToDesk\ToDesk.exe
+
 set_passwd----设置安全密码
 
 set_proxy----设置代理并启用(非必要)
